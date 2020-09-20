@@ -16,7 +16,7 @@ Used data from Kaggle: https://www.kaggle.com/omkarsabnis/yelp-reviews-dataset
 
 ## Approach
 
-The data was imbalanced with the majority of the data being positive reviews. To prevent bias in the model I used SMOTE to synthesize more negative reviews, thus balancing the data classes. I compared the performance of three machine learning algorithms (Naive Bayes Multinomial, Logistic Regression, and Random Forests) and found that the logistic regression gave the highest overall accuracy.
+The data was imbalanced with the majority of the data being positive reviews. To prevent bias in the model I used SMOTE to synthesize more negative reviews, thus balancing the data classes. To analysis the text I used a TF-IDF Vectorizer, paired with a text pre-processing script to remove stop words and punctuation. I compared the performance of three machine learning algorithms (Naive Bayes Multinomial, Logistic Regression, and Random Forests) and performed parameter tuning on each to maximise performance.
 
 ## Results
 
