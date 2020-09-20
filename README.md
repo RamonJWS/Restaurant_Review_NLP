@@ -23,3 +23,4 @@ The data was imbalanced with the majority of the data being positive reviews. To
 Using a tuned Logistic Regression, I managed to predict if social media posts about restaurants were negative or positive to a 89% accuracy.
 
 By combining data from social media about a restaurant, the model would be used to identify areas with a positive and negative outlooks on the business. The business could then deploy targeted strategies to these different groups to increase the publics option of the business, therefore increasing profits.
+
