@@ -27,6 +27,6 @@ By combining data from social media about a restaurant, the model would be used 
 ## Example Reviews
 
 <p align="center">
-  <img src="https://github.com/RamonJWS/Yelp_Review_NLP/blob/master/example.PNG" width=600>
+  <img src="https://github.com/RamonJWS/Yelp_Review_NLP/blob/master/examples.PNG" width=600>
 </p>
 
