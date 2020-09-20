@@ -24,3 +24,9 @@ Using a tuned Logistic Regression, I managed to predict if social media posts ab
 
 By combining data from social media about a restaurant, the model would be used to identify areas with a positive and negative outlooks on the business. The business could then deploy targeted strategies to these different groups to increase the publics option of the business, therefore increasing profits.
 
+## Example Reviews
+
+<p align="center">
+  <img src="" width=600>
+</p>
+
