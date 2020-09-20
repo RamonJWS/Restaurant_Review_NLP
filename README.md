@@ -1,4 +1,4 @@
-<h1 align='center'> Yelp_Review_NLP </h1>
+<h1 align='center'> Restaurant Review Classifiaction using NLP </h1>
 
 ## Project Motivation
 
