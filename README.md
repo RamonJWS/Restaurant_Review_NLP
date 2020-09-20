@@ -26,7 +26,7 @@ By combining data from social media about a restaurant, the model would be used 
 
 ## Example Reviews
 
-The below examples are from a twitter hashtag search of one of my favourite local restaurants. 
+The below examples are from a Twitter hashtag search of one of my favourite local restaurants. 
 
 <p align="center">
   <img src="https://github.com/RamonJWS/Yelp_Review_NLP/blob/master/examples.PNG" width=1500>
