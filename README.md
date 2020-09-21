@@ -34,4 +34,4 @@ The below examples are from a Twitter hashtag search of one of my favourite loca
 
 ## Future Improvements
 
-The system designed is currently a batch learning algorithm, to truly deploy this model it would need to be paired with a data scraping tool that would feed mini batches into an online version of the algorithm. This would then constantly classify peoples opinions of the restaurant, which is key because opinions change. This classified data could be used with a clustering algorithm to find out niche markets and help the business make better decisions in real time.
+The system designed is currently a batch learning algorithm, to truly deploy this model it would need to be paired with a data scraping tool that would feed mini batches into an online version of the algorithm. This would then constantly classify peoples opinions of the restaurant, which is key as opinions can change. This classified data could be used with a clustering algorithm to find out niche markets and help the business make better decisions in real time.
